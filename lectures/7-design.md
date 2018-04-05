@@ -111,7 +111,7 @@ At the end of this step, the architectural design consists of major types of ele
 
 ## Design Concerns
 
-![design concerns](img/add-designconcerns.pdf)
+![design concerns](img/add-designconcerns.png)
 
 (note, this does not display on Github, but the link will show the PDF).
 
