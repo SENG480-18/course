@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 7 - Design and Architecture
 Author: Neil Ernst
-Date: Jan 29, 2018
 ---
 
 The purpose of this lesson is to acquire some idea of what software design is about. We will learn one (of many) approaches to designing software, ADD 3.0.
@@ -11,7 +10,14 @@ We began with an exercise to brainstorm what we think "software design" is. We d
 
 ![space shuttle design](https://history.nasa.gov/computers/p114.jpg)
 
-I showed the NASA complexity video. Or did I? 
+I showed the NASA complexity video. It comes from the excellent [From the Earth to the Moon](https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(miniseries)) series, episode 1.
+
+Cynefin[^1] is a useful, rich model for understanding where your project fits as far as complexity. 
+
+We need different design practices depending on where on that model our project fits (or we think it fits). 
+
+![cynefin](img/Cynefin_as_of_1st_June_2014.png) 
+
 There are a few different 'styles' of software design you will encounter. 
 
 1. *Ad-hoc design*. This is abdication of design as an important activity. We should recall that design exists at many levels; but how many projects have a substantial vision beyond 'solve this problem', often a problem the original implementer had (play music on Linux, make a cool video game, sell an operating system to IBM). Obviously, very low upfront cost.
@@ -111,11 +117,9 @@ At the end of this step, the architectural design consists of major types of ele
 
 ## Design Concerns
 
-![design concerns](img/add-designconcerns.pdf)
+![design concerns](img/add-designconcerns.png) 
 
-(note, this does not display on Github, but the link will show the PDF).
-
-We then select designs that address the concerns. One way to do this is with design patterns and architecture tactics. Design patterns were covered in SENG330. Architecture tactics are similar, but focus on the solution to a particular quality attribute. For example, to handle *Performance*, we need to *Manage Resources*. Some tactics to do this include *using concurrency*, using *multiple copies of the data*, and *bounding queue sizes*
+We then select designs that address the concerns. One way to do this is with design patterns and architecture tactics. Design patterns were covered in SENG330/350. Architecture tactics are similar, but focus on the solution to a particular quality attribute. For example, to handle *Performance*, we need to *Manage Resources*. Some tactics to do this include *using concurrency*, using *multiple copies of the data*, and *bounding queue sizes*
 
 You can find more tactics in the book. Most of the book covers architecture tactics. 
 
@@ -136,11 +140,12 @@ There are three design concerns related to modifiability:
   Defer binding: delaying the time when the language is chosen
 -->
 
-0. What QA is most relevant here?
-1. What *design concerns* do we need to think about? Identify 2 [modifiability tactics](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14858.pdf) that are relevant. (use the back of the book). 
-2. Identify 1 externally-developed solution that might help with the problem.
-3. For each tactic and the OTS solution, identify the tradeoffs each makes in solving the problem.
+1. What QA is most relevant here?
+2. What *design concerns* do we need to think about? Identify 2 [modifiability tactics](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14858.pdf) that are relevant. (use the back of the book). 
+3. Identify 1 externally-developed solution that might help with the problem.
+4. For each tactic and the OTS solution, identify the tradeoffs each makes in solving the problem.
 
 # References
 1. Designing Software Architectures, Cervantes and Kazman, 2017.
 2. NASA in SpaceFlight, https://history.nasa.gov/computers/p114.htm
+3. Kurtz, Cynthia F.; Snowden, David J. (2003). "The new dynamics of strategy: Sense-making in a complex and complicated world" IBM Systems Journal. 42 (3): 462–483. doi:10.1147/sj.423.0462. 

@@ -1,8 +1,8 @@
 ---
-Title: Assignment 1 handout
+Title: Undergraduate Assignment handout
 Author: Neil Ernst
 ---
-Due: **Thurs, Feb 8 11:59pm** as a Github commit. We mark the last commit unless told otherwise.
+Due: **Thurs, Feb 14 11:59pm** as a Github commit. We mark the last commit unless told otherwise.
 
 Note:
 

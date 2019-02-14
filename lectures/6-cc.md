@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 6 - C&C Views
 Author: Neil Ernst
-Date: Jan 18, 2018
 ---
 
 # Representing Views
@@ -46,8 +45,8 @@ We will show a context diagram, putting this view in the context of the entire s
 1. Pipe and Filter
 2. Client-Server
 3. Shared Data
-3. Pub-Sub
-4. Service Oriented
+4. Pub-Sub
+5. Service Oriented
 
 # Pipe and Filter
 Show dataflow. Filters transform data and pass it along Pipes. Analyze system throughput, function composition.

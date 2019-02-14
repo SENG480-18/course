@@ -1,7 +1,7 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 3
 Author: Neil Ernst
-Date: Jan 8, 2018
+Date: Jan 21, 2019
 ---
 
 # Reading and Understanding Code

@@ -21,7 +21,7 @@ For the project, I've asked you to fill in a table from the Rozanski and Woods a
 | Production  Engineers |	Design, deploy, and manage the hardware and software environments in which the system will be built, tested,  and run | |
 | Suppliers |	Build and/or supply the hardware, software, or infrastructure on which the system will run | |
 | Support  Staff |	Provide support to users for the product or system when it is running | |
-| System | Administrators	Run the system once it has been deployed | |
+| System Administrators |	Run the system once it has been deployed | |
 | Testers |	Test the system to ensure that it is suitable for use | |
 | Users |	Define the system’s functionality and ultimately make use of it | |
 
