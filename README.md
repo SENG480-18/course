@@ -21,23 +21,23 @@ The following schedule is subject to change, and will change.
 | Feb 4 | [Views part 2 - C&C](https://github.com/SENG480/course/blob/master/lectures/6-cc.md) | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 4 | | 
 | Feb 7 | [Architecture and Design](https://github.com/SENG480/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17  |  | |
 | Feb 8 | | | |**M2 due**||
-| Feb 11 | Guest lecture: code navigation with Dr. Daniel Germán | |  ||
+| Feb 11 | Snow Cancellation | |  ||
 | Feb 14 | Project & assignment working session || |
 | Feb 15 | | | | Grad students send in proposed topic. Undergrad  **A1 due** |
 | Feb 18 | Reading Week | | |
 | Feb 21 | Reading Week | | |
-| Feb 25 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | || |
+| Feb 25 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) | || |
 | Feb 28 | Midterm | | | **Midterm** |
 | Mar 4  |  [API and Interface documentation](https://github.com/SENG480/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
 | Mar 7 | [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M3 due Mar 8** |
-| Mar 11 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei) |
+| Mar 11 | Tentative: Guest lecture: code navigation with Dr. Daniel Germán | | |
 | Mar 14 | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | ch 21 | **M4 due Mar 15**|
 | Mar 18 | [Documenting Ops](https://github.com/SENG480/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
 | Mar 21 | Doc Exercise in class | | | **M5 due Mar 22** |
 | Mar 25 | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | |
-| Mar 28 | Project presentations Groups tbd | | | |
-| Apr 1 |  Project presentation Groups tbd | | |  |
-| Apr 4 |  TBD  || |
+| Mar 28 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei) | |
+| Apr 1 |  In class Project presentations - UnderGrad groups. Grad groups only: Schedule with Neil / Omar | | |  |
+| Apr 4 |  no class in lieu of presentations during the week  || |
 | Apr 7 | || | **M6 and M7 due in repo** | 
 | Apr 12 |  ||| **Grad assignment due** |
 

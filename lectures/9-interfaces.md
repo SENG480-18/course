@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 9---Documenting and Understanding Interfaces
 Author: Neil Ernst
-Date: Mar 5, 2018
 ---
 
 # Why Document Interfaces?
@@ -21,7 +20,7 @@ Is this a good interface document (box and line)
 
 My favorite [interface video.](https://www.youtube.com/watch?v=Z3csfLkMJT4)
 
-My favorite [interface story](img/MCO-rootcause.png).
+My favorite [interface story](img/MCO-root-cause.png).
 
 # How to capture interfaces
 An interface is a boundary across which two elements meet and interact or communicate with each other. Like everything in this course, we only document interfaces to the extent we care to communicate it to stakeholders. 
