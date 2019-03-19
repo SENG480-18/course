@@ -27,6 +27,7 @@ These views apply to all systems:
 * Decomposition
 * Uses
 * Data Model
+
 **Allocation views**
 * Deployment
 * Install
@@ -38,6 +39,7 @@ These views apply to some systems:
 * Generalization
 * Layered
 * Aspects
+
 **C&C views**
 * Pipe-and-Filter
 * Shared-Data
